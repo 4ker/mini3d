@@ -16,10 +16,10 @@
 
 编译
 ===
-* mingw: 
-		gcc -O3 mini3d.c -o mini3d.exe -lgdi32
+* mingw:
+        gcc -O3 mini3d.c -o mini3d.exe -lgdi32
 * msvc:
-		cl -O2 -nologo mini3d.c 
+        cl -O2 -nologo mini3d.c
 * 已编译版本：
 [http://www.skywind.me/mw/images/c/c8/Mini3d.7z](http://www.skywind.me/mw/images/c/c8/Mini3d.7z "Mini3d.7z")
 
@@ -54,7 +54,6 @@
 * 从 BMP/TGA 文件加载纹理
 * 载入 BSP 场景并实现漫游
 
-
 欢迎捐赠
 =======
 
@@ -62,10 +61,8 @@
 
 您的捐助是对该教程的最大肯定，欢迎使用支付宝手扫描上面的二维码，进行捐赠。捐赠款项将用于完善教程文档和图例，以及帮助我写出更多有意思的教程来。
 
-
-
 欢迎关注
 
 blog: http://www.skywind.me
 
-zhihu: https://www.zhihu.com/people/skywind3000 
+zhihu: https://www.zhihu.com/people/skywind3000
